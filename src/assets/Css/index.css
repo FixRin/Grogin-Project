@@ -1,0 +1,17 @@
+.top-header {
+  background-color: #634c9f;
+}
+.top-header-left {
+  font-family: "Inter", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 0.75rem;
+  text-align: center;
+}
+.top-header-right span {
+  font-size: 0.75rem;
+  font-family: "Inter", serif;
+  font-optical-sizing: auto;
+  text-align: center;
+}
